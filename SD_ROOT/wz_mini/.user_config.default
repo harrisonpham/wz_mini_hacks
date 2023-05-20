@@ -1,0 +1,12 @@
+[NET]
+bindOk=1
+p2pid=
+r_encr=
+
+[SETTING]
+timezone=-8
+recordType=3
+watermark_flag=2
+
+[CAMERA_INFO]
+TZ_STR=
